@@ -1,0 +1,12 @@
+C:\Users\AR\Documents\Visual Studio 2017\Projects\MNIST\MNIST\bin\Debug\MNIST.exe.config
+C:\Users\AR\Documents\Visual Studio 2017\Projects\MNIST\MNIST\bin\Debug\MNIST.exe
+C:\Users\AR\Documents\Visual Studio 2017\Projects\MNIST\MNIST\bin\Debug\MNIST.pdb
+C:\Users\AR\Documents\Visual Studio 2017\Projects\MNIST\MNIST\bin\Debug\MNIST.xml
+C:\Users\AR\Documents\Visual Studio 2017\Projects\MNIST\MNIST\obj\Debug\MNIST.vbprojResolveAssemblyReference.cache
+C:\Users\AR\Documents\Visual Studio 2017\Projects\MNIST\MNIST\obj\Debug\MNIST.Form1.resources
+C:\Users\AR\Documents\Visual Studio 2017\Projects\MNIST\MNIST\obj\Debug\MNIST.Resources.resources
+C:\Users\AR\Documents\Visual Studio 2017\Projects\MNIST\MNIST\obj\Debug\MNIST.vbproj.GenerateResource.Cache
+C:\Users\AR\Documents\Visual Studio 2017\Projects\MNIST\MNIST\obj\Debug\MNIST.exe
+C:\Users\AR\Documents\Visual Studio 2017\Projects\MNIST\MNIST\obj\Debug\MNIST.xml
+C:\Users\AR\Documents\Visual Studio 2017\Projects\MNIST\MNIST\obj\Debug\MNIST.pdb
+C:\Users\AR\Documents\Visual Studio 2017\Projects\MNIST\MNIST\obj\Debug\MNIST.Resource1.resources
